@@ -18,7 +18,7 @@ You can try out the Unit Converter Web App by visiting the app page.
 3. The converted value will be displayed instantly in the corresponding output unit (e.g., feet, gallons, pounds).
 
 ## Screenshots
-![Screenshot]([my-image.png](https://imaginario27.com/wp-content/uploads/2023/09/conversor-de-unidades-metricas-imperiales-app.jpg))
+![Screenshot]([my-image.png](https://imaginario27.com/wp-content/uploads/2023/09/conversor-de-unidades-metricas-imperiales-app.jpg)
 
 ## Acknowledgments
 This project was inspired by the need for a simple metric / imperial unit converter.
